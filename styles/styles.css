@@ -169,7 +169,7 @@ body {
 
 .projects__link {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -480,3 +480,5 @@ body {
     margin-bottom: 20px;
   }  
 }
+
+
